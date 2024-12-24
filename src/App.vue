@@ -10,7 +10,7 @@ import MyLifeCycle1 from "@/components/MyLifeCycle1.vue";
 import MyFather1 from "@/components/MyFather1.vue";
 import MyFather2 from "@/components/MyFather2.vue";
 import MyTempleteRef1 from "@/components/MyTempleteRef1.vue";
-
+import MyProvide1 from "@/components/MyProvide1.vue";
 
 
 import {ref} from 'vue'
@@ -60,6 +60,7 @@ export default {
     <MyFather1 />
     <MyFather2 />
     <MyTempleteRef1 />
+    <MyProvide1 />
   </main>
 </template>
 
