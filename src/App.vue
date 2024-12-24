@@ -6,6 +6,9 @@ import MyReactive1 from "@/components/MyReactive1.vue";
 import MyRef1 from "@/components/MyRef1.vue";
 import MyComputed1 from "@/components/MyComputed1.vue";
 import MyWatch1 from "@/components/MyWatch1.vue";
+import MyLifeCycle1 from "@/components/MyLifeCycle1.vue";
+import MyFather1 from "@/components/MyFather1.vue";
+import MyFather2 from "@/components/MyFather2.vue";
 import MyTempleteRef1 from "@/components/MyTempleteRef1.vue";
 
 
@@ -53,6 +56,9 @@ export default {
     <MyRef1 />
     <MyComputed1 />
     <MyWatch1 />
+	<MyLifeCycle1 />
+    <MyFather1 />
+    <MyFather2 />
     <MyTempleteRef1 />
   </main>
 </template>
